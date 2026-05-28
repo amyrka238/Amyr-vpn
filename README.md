@@ -3,13 +3,13 @@
 ## Быстрый старт
 
 ```bash
-sudo bash <(curl -sL https://your-domain.com/install.sh)
+sudo bash <(curl -sL https://raw.githubusercontent.com/amyrka238/Amyr-vpn/refs/heads/main/install.sh)
 ```
 
 или
 
 ```bash
-sudo curl -sL https://your-domain.com/install.sh | bash
+sudo curl -sL https://raw.githubusercontent.com/amyrka238/Amyr-vpn/refs/heads/main/install.sh | bash
 ```
 
 ## Что происходит при установке?
@@ -277,6 +277,6 @@ A: Можно, но нужно менять порт для каждой и ре
 
 ---
 
-**Создано:** SubManager Installer v2.0  
+**Создано:** SubManager Installer v1.0  
 **Лицензия:** MIT  
 **Поддержка:** Встроенное меню управления
